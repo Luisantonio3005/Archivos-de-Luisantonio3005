@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+header {
+    background-color:rgb(6, 136, 16);
+    color:hsl(0, 0%, 0%);
+    text-align: center;
+    padding: 1em 0;
+}
+header h1{
+    font-size: 2em;
+}
+p {
+    font-size: 1.2em;
+    
+}
+main {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+section {
+    margin-bottom: 2em;
+    padding: 1em;
+    border: 1px solid #ff0400;
+    border-radius: 5px;
+    text-align: center;
+}
+h2 {
+    color:rgb(8, 164, 21);
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    margin-bottom: 0.5em;
+}
+p{
+    line-height: 1.6;
+}
+footer {
+    background-color:rgb(8, 164, 21);
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+}
+.rutas-list a{
+    display: block;
+    margin-bottom: 0.5em;
+    color:rgb(255, 255, 0);
+    text-decoration: none;
+}
+.rutas-list a:hover {
+    text-decoration: underline;
+    transition: color 0.3s ease;
+    color:rgb(255, 0, 0);
+}
