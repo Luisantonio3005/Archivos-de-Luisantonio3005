@@ -6,7 +6,7 @@ body {
     background-color: rgb(58, 52, 240); /* Añade aquí el color de fondo */
   }
 header {
-    background-color:rgb(6, 136, 16);
+    background-color:rgb(21, 200, 27);
     color:hsl(0, 0%, 0%);
     text-align: center;
     padding: 1em 0;
@@ -15,9 +15,15 @@ header h1{
     font-size: 2em;
     font-weight: bold;
 }
+h1 {
+    padding-top: 10px;
+    font-size: 22px;
+    margin: 0;
+}
 p {
-    font-size: 1.2em;
-    
+    font-size: 20px;
+    padding: 6px;
+    background-color: rgb(20, 208, 27);
 }
 main {
     max-width: 800px;
@@ -42,15 +48,12 @@ ul {
 ul li {
     margin-bottom: 0.5em;
 }
-p{
-    line-height: 1.6;
-}
 footer {
-    background-color:rgb(8, 164, 21);
-    text-align: center;
-    padding: 1em 0;
-    position: relative;
-}
+        background-color: rgb(20, 208, 27);
+        text-align: center;
+        padding: 1em 0;
+        position: relative;
+    }
 .rutas-list a{
     display: block;
     margin-bottom: 0.5em;
