@@ -3,7 +3,7 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 10px;
-    background-color: rgb(10, 2, 255); /* Añade aquí el color de fondo */
+    background-color: rgb(58, 52, 240); /* Añade aquí el color de fondo */
   }
 header {
     background-color:rgb(6, 136, 16);
@@ -32,7 +32,7 @@ section {
     text-align: center;
 }
 h2 {
-    color:rgb(8, 164, 21);
+    color:rgb(0, 0, 0);
     font-weight: bold;
 }
 ul {
